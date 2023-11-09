@@ -3,7 +3,12 @@
 
 ## Edit this project
 
-To edit this repository in MakeCode.
+[Enlace classroom microbit](https://classroom.github.com/classrooms/149103980-ull-mfp-aet-2324-alu0100773231/assignments/microbit-paola)
+
+[Enlace classroom](https://classroom.github.com/classrooms) 
+
+[Enlace organización](https://github.com/ull-mfp-aet-2324-alu0100773231)
+
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import URL** then click on **Import URL**
