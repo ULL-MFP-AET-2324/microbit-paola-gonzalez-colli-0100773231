@@ -15,7 +15,7 @@
 
 [Enlace ejercicio sensitive steps](https://github.com/ULL-MFP-AET-2324/microbit-paola-gonzalez-colli-0100773231/tree/Sensitive-Step-Counter)
 
-[Enlace ejercicio Low energy](https://github.com/ULL-MFP-AET-2324/microbit-paola-gonzalez-colli-0100773231/tree/low-energy-step-counter)
+[Enlace ejercicio Low energy](https://github.com/ULL-MFP-AET-2324/microbit-paola-gonzalez-colli-0100773231/tree/low-energy)
 
 
 
