@@ -9,6 +9,7 @@
 
 [Enlace organización](https://github.com/ull-mfp-aet-2324-alu0100773231)
 
+[Enlace ejercicio Contador de pasos](https://github.com/ULL-MFP-AET-2324/microbit-paola-gonzalez-colli-0100773231/tree/Sensitive-Step-Counter)
 [Enlace ejercicio sensitive steps](https://github.com/ULL-MFP-AET-2324/microbit-paola-gonzalez-colli-0100773231/tree/Sensitive-Step-Counter)
 
 
