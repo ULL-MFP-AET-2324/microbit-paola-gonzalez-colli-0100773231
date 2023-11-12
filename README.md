@@ -15,6 +15,9 @@
 
 [Enlace ejercicio sensitive steps](https://github.com/ULL-MFP-AET-2324/microbit-paola-gonzalez-colli-0100773231/tree/Sensitive-Step-Counter)
 
+[Enlace ejercicio Low energy](https://github.com/ULL-MFP-AET-2324/microbit-paola-gonzalez-colli-0100773231/tree/low-energy-step-counter)
+
+
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import URL** then click on **Import URL**
